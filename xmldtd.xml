@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE classroom [
+<!ELEMENT classroom (student)>
+<!ELEMENT student (name,id,marks,dob)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT marks (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+]>
+<classroom>
+  <student>
+    <name>Siddharth</name>
+    <id>U01835896</id>
+    <marks>98</marks>
+    <dob>01-18-1998</dob>
+  </student>
+</classroom>

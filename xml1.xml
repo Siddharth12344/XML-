@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classroom xmlns:xsi="file:///C:/Users/siddh/OneDrive/Documents/xml1.xml"
+xsi:SchemaLocation="file:///C:/Users/siddh/OneDrive/Documents/xml1schema.xsd">
+  <student>
+    <name>Siddharth</name>
+    <id>U01835896</id>
+    <marks>98</marks>
+    <dob>01-18-1998</dob>
+  </student>
+  <student>
+    <name>Shethala</name>
+    <id>U01835326</id>
+    <marks>98</marks>
+    <dob>02-22-2000</dob>
+  </student>
+</classroom>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="file:///C:/Users/siddh/OneDrive/Documents/xml1schema.xsd">
+<xs:element name="classroom">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="student">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="id" type="xs:string"/>
+            <xs:element name="marks" type="xs:positiveInteger"/>
+            <xs:element name="dob" type="xs:string"/>
+          </xs:sequence>
+        </xs:complexType>
+      </xs:element>
+     </xs:sequence>
+   </xs:complexType>
+ </xs:element>
+</xs:schema>
