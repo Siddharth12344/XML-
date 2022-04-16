@@ -1,7 +1,7 @@
 # XML-
 
 **dom_parser_dtd.ipynb**
-This file has a python program for dom parser which parses and validates the xmldtd.xml document against the DTD 
+This file has a python program for dom parser which parses and validates the xmldtd.xml document against the DTD. This is executed in jupyter notebook.
 
 **xml1.xml**
 This is the xml file.
